@@ -11,14 +11,14 @@
 3. https://automeris.io/WebPlotDigitizer/
 *** for the viewer data, webplotdigitizer is need to extract data
 
-# What value is needed in my project
+# Ideas about what value is needed in my project
 1. The rank of most played and most watched game ( through sullygnome) 
 2. The summary player count of all time of the past month
 3. The viewer count data of the past month on twitch 
 4. Find the realationship between viewers and steam players
 5. Compare moba and fps game player's different habbit
 
-# How will i accomplish this task (data visualizing) 
+# How will i accomplish this task (data visualization) 
 1. Drag data from the steam chart and other source by webplotdigitizer, form into the excel sheet
 2. Show the trend of value need 1&2&3 in excel chart
 4. Form value needed 2 and 3 into in chart and find the realationship
