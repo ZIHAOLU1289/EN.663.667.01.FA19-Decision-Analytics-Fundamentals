@@ -6,8 +6,10 @@
 
 # What source is needed in my project 
 1. The steam chart ( the steam provide a offical chart to calculate real time numbers of players ) 
+https://steamdb.info/app/730/graphs/
 2. sullygnome
 3. www.githyp.com
+
 
 # What value is needed in my project
 1. The peak player time of the past month
