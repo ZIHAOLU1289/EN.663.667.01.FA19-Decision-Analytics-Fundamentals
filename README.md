@@ -5,7 +5,7 @@
 # Academic Question
 These are the questions that i want to investigate
 1. What is moba, fps and survival game players' different habit about playing and viewing
-2. Is real time number of twitch viewers of steam game correspoding to real time number of game players ( one week data )
+2. Is real time number of twitch viewers of steam game correspoding to real time number of game players ( one week data)
 3. For a player, when should they start the game in order to match quickly & avoid waiting time ( one week data )
 4. For a twitcher, when should they broadcast to gain the most viewers ( one week data )
 5. For a invester, which game should they invest based on the trend ( one year data )
