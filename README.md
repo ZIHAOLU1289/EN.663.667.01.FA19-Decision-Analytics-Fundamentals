@@ -18,7 +18,7 @@ These are the questions that i want to investigate
 4. https://automeris.io/WebPlotDigitizer/
 *** for the viewer data, webplotdigitizer is need to extract data
 
-# Data Question 
+# Data Question (data visualization) 
 1. Analyze moba, fps and survival game players' different habit about playing and viewing ( one week data )
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/CS%20GO%20PV%20COUNT%20ONE%20WEEK.JPG)
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/DOTA%20PV%20COUNT%20ONE%20WEEK.JPG)
@@ -40,7 +40,7 @@ These are the questions that i want to investigate
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/PLAYER%20COUNT%20ONE%20YEAR.JPG)
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/VIEWER%20COUNT%20ONE%20YEAR.JPG)
 
-# How will i accomplish this task (data visualization) 
+# How will i accomplish this task 
 1. Drag data from the steam chart and other source by webplotdigitizer, form into the excel sheet
 2. Show the trend of one year value
 3. Show player and viewer count of three games 
