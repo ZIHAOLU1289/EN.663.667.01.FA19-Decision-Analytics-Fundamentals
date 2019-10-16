@@ -4,9 +4,9 @@
 
 # Academic Question
 These are the questions that i want to investigate
-1. What is moba, fps and survival game players' different habit about playing and viewing
-2. When will the game company enhacne the server ( one week data)
-3. For a player, when should they start the game in order to match quickly & avoid waiting time ( one week data )
+1. In which state gathered the most number of pc players
+2. What is moba, fps and survival game players' different habit about playing and viewing
+3. When will the game company enhacne the server ( one week data)
 4. For a twitcher, when should they broadcast to gain the most viewers ( one week data )
 5. For a invester, which game should they invest based on the trend ( one year data )
 
@@ -19,21 +19,19 @@ These are the questions that i want to investigate
 *** for the viewer data, webplotdigitizer is need to extract data
 
 # Data Question (data visualization) 
-1. Amazing fact about player habit 
-***https://news.yahoo.com/state-state-look-consoles-us-203852616.html
+1. In which state gathered the most number of pc players
+pc player distribution state by state ***https://news.yahoo.com/state-state-look-consoles-us-203852616.html
 
-2. Analyze moba, fps and survival game players' different habit about playing and viewing ( one week data )
+2.What is moba, fps and survival game players' different habit about playing and viewing ( one week data )
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/CS%20GO%20PV%20COUNT%20ONE%20WEEK.JPG)
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/DOTA%20PV%20COUNT%20ONE%20WEEK.JPG)
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/PUBG%20PV%20COUNT%20ONE%20WEEK.JPG)
-
-3. When will the game company enhance the server ( one week data )
-*** Question 1 and 2 share the same graph 
-
-4. For player, when is the best time for playing the game while not waiting long time for matching  ( one week data )
+What is the possible explaination for this habbit? ( one week data )
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/PLAYER%20COUNT%20ONE%20WEEK.JPG)
+3. When will the game company enhance the server ( one week data )
+*** Question 2 and 3 share the same graph 
 
-5. For twitcher, when should they start to broadcast in order to gain the most viewers ( one week data )
+5. For twitcher,what type of game should they broadcast and when should they start to broadcast in order to gain the most viewers ( one week data )
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/VIEWER%20COUNT%20ONE%20WEEK.JPG)
 
 6. For invester, which game should they invest base on the overall trend ( one year data )
