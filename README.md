@@ -26,7 +26,8 @@ pc player distribution state by state ***https://news.yahoo.com/state-state-look
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/CS%20GO%20PV%20COUNT%20ONE%20WEEK.JPG)
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/DOTA%20PV%20COUNT%20ONE%20WEEK.JPG)
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/PUBG%20PV%20COUNT%20ONE%20WEEK.JPG)
-What is the possible explaination for this habbit? ( one week data )
+
+2.5 What is the possible explaination for this habbit? ( one week data )
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/PLAYER%20COUNT%20ONE%20WEEK.JPG)
 
 3. When will the game company enhance the server ( one week data )
