@@ -22,19 +22,20 @@ These are the questions that i want to investigate
 1. In which state gathered the most number of pc players
 pc player distribution state by state ***https://news.yahoo.com/state-state-look-consoles-us-203852616.html
 
-2.What is moba, fps and survival game players' different habit about playing and viewing ( one week data )
+2. What is moba, fps and survival game players' different habit about playing and viewing ( one week data )
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/CS%20GO%20PV%20COUNT%20ONE%20WEEK.JPG)
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/DOTA%20PV%20COUNT%20ONE%20WEEK.JPG)
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/PUBG%20PV%20COUNT%20ONE%20WEEK.JPG)
 What is the possible explaination for this habbit? ( one week data )
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/PLAYER%20COUNT%20ONE%20WEEK.JPG)
+
 3. When will the game company enhance the server ( one week data )
 *** Question 2 and 3 share the same graph 
 
-5. For twitcher,what type of game should they broadcast and when should they start to broadcast in order to gain the most viewers ( one week data )
+4. For twitcher,what type of game should they broadcast and when should they start to broadcast in order to gain the most viewers ( one week data )
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/VIEWER%20COUNT%20ONE%20WEEK.JPG)
 
-6. For invester, which game should they invest base on the overall trend ( one year data )
+5. For invester, which game should they invest base on the overall trend ( one year data )
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/PLAYER%20COUNT%20ONE%20YEAR.JPG)
 ![Alt text](https://github.com/ZIHAOLU1289/EN.663.667.01.FA19-Decision-Analytics-Fundamentals/blob/master/VIEWER%20COUNT%20ONE%20YEAR.JPG)
 
