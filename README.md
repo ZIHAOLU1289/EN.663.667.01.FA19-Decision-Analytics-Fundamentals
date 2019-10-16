@@ -4,9 +4,9 @@
 
 # Academic Question
 These are the questions that i want to investigate
-1. In which state gathered the most number of pc players
+1. In which state gathered the most number of pc game players
 2. What is moba, fps and survival game players' different habit about playing and viewing
-3. When will the game company enhacne the server ( one week data)
+3. When will the game company enhance the server ( one week data)
 4. For a twitcher, when should they broadcast to gain the most viewers ( one week data )
 5. For a invester, which game should they invest based on the trend ( one year data )
 
