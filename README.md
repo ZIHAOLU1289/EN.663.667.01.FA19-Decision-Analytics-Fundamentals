@@ -21,11 +21,14 @@ The reason why it is important to me is that i really want to know if every play
 Links show below
 
 # Data Questions ( use the cs go as an example )
-1. The most useful data for me is player and viewer count of different game. I found it through the steam chart (the steam provide a offical chart to calculate real time numbers of players and viewers  https://steamdb.info/app/730/graphs/)
+1. The most useful data for me is player and viewer count of different game. I found it through many source and finally choose steam chart as the data base (the steam provide a offical chart to calculate real time numbers of players and viewers ) https://steamdb.info/app/730/graphs/)
+
 ** Addtional Source That i Used when searching for the data
+
 2. https://twitchtracker.com/statistics/games
 3. https://sullygnome.com/game/Counter-Strike_Global_Offensive/30/summary
 4. https://automeris.io/WebPlotDigitizer/
+
 ***webplotdigitizer is need to extract excel data from the plot
 
 The reason why i finally choose these three games and these dataset is because they all come from the steam platform. It is official data and precise enough ( if steam tell the truth ). I really hope to have data from the league of legend, however, there is no offical data online and there is no third party provide the player data. If i given that data, i might broaden my comparison even in the same type of game. ( lol vs dota )
@@ -34,7 +37,7 @@ I think for metrics all the data should on the same timeline otherwise the compa
 
 When i search the problem about in which state gathered the most number of players, i did use the research by another type of analysis. 
 
-**https://www.githyp.com/?type=steam-player-counts
+https://www.githyp.com/?type=steam-player-counts
 
 This is the link that i found when i search for data. It shows the rank of most played and viewed games on steam if you are interested. 
 
