@@ -93,3 +93,5 @@ The answer to original question two is no too. From the trend we can know that p
 
 4. For audiences no matter they want to be player, twitcher, software engineer or investors, i really hope my discovery might help them. 
 
+# P.S 
+I prefer ABCD grade for my final grade. Thank you for reading and watching my presentation !!
