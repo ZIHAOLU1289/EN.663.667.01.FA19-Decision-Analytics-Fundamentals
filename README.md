@@ -28,8 +28,15 @@ Links show below
 4. https://automeris.io/WebPlotDigitizer/
 ***webplotdigitizer is need to extract excel data from the plot
 
-The reason why i finally choose these three games and these dataset is because they all come from the steam platform. It is official data and precise enough ( if steam tell the truth ). I really hope to have data from the league of legend, however, there is no offical data online and there is no third party provide the player data. If i given that data, i might broaden my  
+The reason why i finally choose these three games and these dataset is because they all come from the steam platform. It is official data and precise enough ( if steam tell the truth ). I really hope to have data from the league of legend, however, there is no offical data online and there is no third party provide the player data. If i given that data, i might broaden my comparison even in the same type of game. ( lol vs dota )
 
+I think for metrics all the data should on the same timeline otherwise the comparison does not make any sense. All my data has changed into numbers. 
+
+When i search the problem about in which state gathered the most number of players, i did use the research by another type of analysis. 
+
+**https://www.githyp.com/?type=steam-player-counts
+
+This is the link that i found when i search for data. It shows the rank of most played and viewed games on steam if you are interested. 
 
 # How will i accomplish this task 
 1. Drag data from the steam chart and other source by webplotdigitizer, form into the excel sheet
