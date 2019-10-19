@@ -5,7 +5,7 @@ My research question is about games because i am a game lover. My orginal proble
 
 My initial solutions are yes to these two problems. The suggestion for that is 1 to 4 am is the time slot when i saw most of friends either online or in game. Also, although the players of survival game is decreasing, it's still a hot game that has the potential for us to invest. The value of investment will be the future implication of my finding. 
 
-# Academic Question (into & broadside)
+# Academic Question (intro & broadside)
 1. What games are most famous from the past year ( Briefly Describe ) 
 2. What useful information can we extract from the data provided by steam ( if im game player, viewer, game company software engineer and investors) ?
 
