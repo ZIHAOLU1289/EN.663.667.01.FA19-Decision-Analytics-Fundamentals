@@ -1,8 +1,9 @@
 # EN.663.667.01.FA19-Decision-Analytics-Fundamentals Project
 # Analyzing the games
 
-My research question is about games because i am a game lover. My orginal problems are will all the game players share the same habbits like me ( i play games 1am to 4am in the morning )? And if i got a few fund in my hand, should i invest the survival game because it's so famous for the past few years? 
-My initial solutions are yes to these two problems. The suggestion for that is 1 to 4 am is the time slot when i saw most of friends either online or in game. Also, although the players of survival game is decreasing, it's still a hot game that has the potential for us to invest.
+My research question is about games because i am a game lover. My orginal problems are: will all the game players share the same habbits like me ( i play games 1am to 4am in the morning )? And if i got a few fund in my hand, should i invest the survival game because it's so famous for the past few years? 
+
+My initial solutions are yes to these two problems. The suggestion for that is 1 to 4 am is the time slot when i saw most of friends either online or in game. Also, although the players of survival game is decreasing, it's still a hot game that has the potential for us to invest. The value of investment will be the future implication of my finding. 
 
 # Academic Question (into & broadside)
 1. What games are most famous from the past year ( Briefly Describe ) 
@@ -18,7 +19,9 @@ These are the questions that i want to investigate
 
 The reason why it is important to me is that i really want to know if every player of games shares the same habbit. It is my interest in. To reader, i want to prove them that even single dataset like viewer and player count can tell many stories for them to think, learn and even use for investment. 
 
-Links show below
+https://www.githyp.com/?type=steam-player-counts
+
+This is the link that i found when i search for data for the first time. It shows the rank of most played and viewed games on steam if you are interested. This give me the idea that if i want to have a short term invest in the future, i can just check this website. 
 
 # Data Questions ( use the cs go as an example )
 1. The most useful data for me is player and viewer count of different game. I found it through many source and finally choose steam chart as the data base (the steam provide a offical chart to calculate real time numbers of players and viewers ) https://steamdb.info/app/730/graphs/)
@@ -29,17 +32,15 @@ Links show below
 3. https://sullygnome.com/game/Counter-Strike_Global_Offensive/30/summary
 4. https://automeris.io/WebPlotDigitizer/
 
-***webplotdigitizer is need to extract excel data from the plot
+*** webplotdigitizer is need to extract excel data from the plot
 
 The reason why i finally choose these three games and these dataset is because they all come from the steam platform. It is official data and precise enough ( if steam tell the truth ). I really hope to have data from the league of legend, however, there is no offical data online and there is no third party provide the player data. If i given that data, i might broaden my comparison even in the same type of game. ( lol vs dota )
 
-I think for metrics all the data should on the same timeline otherwise the comparison does not make any sense. All my data has changed into numbers. 
+I think for metrics all the data of same category should on the same timeline otherwise the comparison does not make any sense (same start date, same end date) . All my data has been changed into numbers. 
 
 When i search the problem about in which state gathered the most number of players, i did use the research by another type of analysis. 
 
-https://www.githyp.com/?type=steam-player-counts
-
-This is the link that i found when i search for data. It shows the rank of most played and viewed games on steam if you are interested. 
+Links are shown above
 
 # How will i accomplish this task 
 1. Drag data from the steam chart and other source by webplotdigitizer, form into the excel sheet
@@ -85,7 +86,7 @@ For invester, moba and fps is more stable for investment, survival game have pro
 
 # Academic answers 
 1. The answer to the original question one is no. The players would not gather at the midnight from 1am to 4am. My conclusive answer for this is for most of the players they may just play the game whole night till tomorrow morning, and the other group of people like me wake up early would play one game before coming to the class. These two group of people would gather at the morning or lunchtime.
-The answer to original question two is no too. From the trend we can know that players are begin to feel tired about the survival game. It is too late to invest the survival game. 
+The answer to original question two is no too. From the trend we can know that players already begin to feel tired about the survival game. It is too late to invest the survival game. 
 
 2. If i get more time, i would analyze more type of games rather the hottest three category. Many games on steam have a really idea for development and investment. 
 
